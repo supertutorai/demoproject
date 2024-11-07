@@ -41,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AB104B402CDD7CF4006365D3 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = SOURCE_ROOT; };
 		AEB2A33A2C73D38000FE7572 /* cleanandchecked2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = cleanandchecked2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEB2A33D2C73D38000FE7572 /* cleanandchecked2App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cleanandchecked2App.swift; sourceTree = "<group>"; };
 		AEB2A33F2C73D38000FE7572 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -90,6 +91,7 @@
 		AEB2A3312C73D38000FE7572 = {
 			isa = PBXGroup;
 			children = (
+				AB104B402CDD7CF4006365D3 /* README.md */,
 				AEB2A33C2C73D38000FE7572 /* cleanandchecked2 */,
 				AEB2A34D2C73D38200FE7572 /* cleanandchecked2Tests */,
 				AEB2A3572C73D38200FE7572 /* cleanandchecked2UITests */,
@@ -455,7 +457,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_ASSET_PATHS = "\"cleanandchecked2/Preview Content\"";
-				DEVELOPMENT_TEAM = MP56ZV3798;
+				DEVELOPMENT_TEAM = 3RCW2SSL8G;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = cleanandchecked2/Info.plist;
@@ -472,7 +474,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 2.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.tutto.cleanandchecked23;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jht1900.cleanandchecked23;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
@@ -493,7 +495,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_ASSET_PATHS = "\"cleanandchecked2/Preview Content\"";
-				DEVELOPMENT_TEAM = MP56ZV3798;
+				DEVELOPMENT_TEAM = 3RCW2SSL8G;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = cleanandchecked2/Info.plist;
@@ -510,7 +512,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 2.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.tutto.cleanandchecked23;
+				PRODUCT_BUNDLE_IDENTIFIER = com.jht1900.cleanandchecked23;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
