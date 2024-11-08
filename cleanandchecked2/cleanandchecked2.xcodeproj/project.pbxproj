@@ -30,7 +30,6 @@
 		AEB2A3412C73D38200FE7572 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AEB2A3442C73D38200FE7572 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		AEB2A3672C73D48900FE7572 /* LoginViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewModel.swift; sourceTree = "<group>"; };
-		AEB2A3692C73D4CD00FE7572 /* cleanandchecked2.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = cleanandchecked2.entitlements; sourceTree = "<group>"; };
 		AEB2A3782C73D5AF00FE7572 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -73,7 +72,6 @@
 			isa = PBXGroup;
 			children = (
 				AEB2A3782C73D5AF00FE7572 /* Info.plist */,
-				AEB2A3692C73D4CD00FE7572 /* cleanandchecked2.entitlements */,
 				AEB2A33D2C73D38000FE7572 /* cleanandchecked2App.swift */,
 				AEB2A33F2C73D38000FE7572 /* ContentView.swift */,
 				AEB2A3672C73D48900FE7572 /* LoginViewModel.swift */,
