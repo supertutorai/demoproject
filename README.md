@@ -3,6 +3,8 @@
 
 ~~~
 
+switch to molab project to avoid signin up for billing to enable Storage service
+
 https://console.firebase.google.com/u/0/project/supertutorai-39c05/settings/general/ios:com.jht1900.cleanandchecked23
 
 
