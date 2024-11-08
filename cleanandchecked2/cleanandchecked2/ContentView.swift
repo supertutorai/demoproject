@@ -88,9 +88,9 @@ struct LoginView: View {
                 .cornerRadius(8)
                 .shadow(color: .gray.opacity(0.4), radius: 3, x: 0, y: 2)
             
-            AppleSignInButton(action: loginViewModel.signInWithApple)
-                .padding(.top, 10)
-                .shadow(color: .gray.opacity(0.4), radius: 3, x: 0, y: 2)
+//            AppleSignInButton(action: loginViewModel.signInWithApple)
+//                .padding(.top, 10)
+//                .shadow(color: .gray.opacity(0.4), radius: 3, x: 0, y: 2)
             
             Button(action: {
                          isAnonymousMode = true

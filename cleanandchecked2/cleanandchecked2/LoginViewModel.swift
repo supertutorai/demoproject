@@ -77,17 +77,18 @@ class LoginViewModel: NSObject, ObservableObject, ASAuthorizationControllerDeleg
      }
     
     func signInWithApple() {
-        let request = ASAuthorizationAppleIDProvider().createRequest()
-        request.requestedScopes = [.fullName, .email]
-        
-        let nonce = randomNonceString()
-        currentNonce = nonce
-        request.nonce = sha256(nonce)
-        
-        let authorizationController = ASAuthorizationController(authorizationRequests: [request])
-        authorizationController.delegate = self
-        authorizationController.presentationContextProvider = self
-        authorizationController.performRequests()
+        print("Disabled")
+//        let request = ASAuthorizationAppleIDProvider().createRequest()
+//        request.requestedScopes = [.fullName, .email]
+//        
+//        let nonce = randomNonceString()
+//        currentNonce = nonce
+//        request.nonce = sha256(nonce)
+//        
+//        let authorizationController = ASAuthorizationController(authorizationRequests: [request])
+//        authorizationController.delegate = self
+//        authorizationController.presentationContextProvider = self
+//        authorizationController.performRequests()
     }
        
     private func randomNonceString(length: Int = 32) -> String {
