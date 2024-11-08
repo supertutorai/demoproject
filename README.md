@@ -3,6 +3,8 @@
 
 ```
 
+[] must disable apple signin on Signing & Capabilities to allow non-developer account to build
+
 [] nothing appears in history
 
 switch to molab project to avoid signin up for billing to enable Storage service
